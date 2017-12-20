@@ -15,7 +15,7 @@ This program has only been tested using the [*insight*](https://insight.bitpay.c
 
 ## Compiling
 The program compiles with the following flags:
-> -ljsoncpp -lcrypto -lcurl
+> -ljsoncpp  -lcrypto  -lcurl
 
 ## Debugging
 The program allows debugging and view of under the hood SHA-256 and Merkle Trees in the Bitcoin implementation. In order to debug, set the debug variable to true.
