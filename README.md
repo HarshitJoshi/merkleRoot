@@ -20,9 +20,9 @@ The program compiles with the following flags:
 ## Debugging
 The program allows debugging and view of under the hood SHA-256 and Merkle Trees in the Bitcoin implementation. In order to debug, set the debug variable to true.
 
-``` C++
+```C++
 \\ debug
-bool print = true;```
-
+bool print = true;
+```
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](License) file for more details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for more details
